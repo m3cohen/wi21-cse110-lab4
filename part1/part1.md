@@ -39,7 +39,7 @@
 
 17. How are you? is printed because 2 == true is a false statement so it will go to the else if (2) which is true. 
 
-18. 
+18. See the file: part1-question18.js
     
     
     

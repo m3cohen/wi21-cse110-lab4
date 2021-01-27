@@ -10,5 +10,7 @@
 
 9. There will be an error because i is only defined in the scope of the for loop.
 10. There will be an error because discountedPrice is only defined in the scope of the for loop.
-11.  
-12. 
+11. There will be an error because finalPrice was initiated at line 3 but was altered at line 7 which can't happen becuase it is constant. 
+12. There will be an error because finalPrice was initiated at line 3 but was altered at line 7 which can't happen becuase it is constant. 
+
+

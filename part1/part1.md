@@ -24,9 +24,9 @@
     C. 3 \
     D. 3null \
     E. 4 \
-    F. 0 \ 
+    F. 0 \
     G. 3undefined \
-    H. NaN \
+    H. NaN 
         
 15. A. true \
     B. false \

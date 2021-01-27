@@ -41,8 +41,8 @@
 
 18. See the file: part1-question18.js
     
-    
-    
+19. [ 6, 8, 10 ]. The modifyArray function calls doSomething and then multiplies by 2 for each entry in the array. doSomething adds 2 to the number. So we take the first entry for example which is 1 and add 2 then multiply by 2 and we get 6.
+20. 
     
     
     

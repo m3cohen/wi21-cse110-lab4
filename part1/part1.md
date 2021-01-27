@@ -8,7 +8,7 @@
 7. The value of finalPrice will be printed as set in line 7, because the variable was initialized in the same scope as line 13. 
 8. The function returns [ 50, 100, 150 ]. prices has a length of 3 so the loop is run 3 times. The calculated value of finalPrice is 50, 100, 150 each of the 3 times respectively which are pushed to the discounted array. 
 \
-
+\
 9. There will be an error because i is only defined in the scope of the for loop.
 10. There will be an error because discountedPrice is only defined in the scope of the for loop.
 11. There will be an error because finalPrice was initiated at line 3 but was altered at line 7 which can't happen becuase it is constant. 
@@ -19,3 +19,5 @@
     C. student.greeting() \
     D. student['Favorite Teacher'].name \
     E. student.courseload[0] \
+    
+14.

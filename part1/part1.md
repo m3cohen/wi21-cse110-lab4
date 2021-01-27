@@ -14,7 +14,7 @@
 12. There will be an error because finalPrice was initiated at line 3 but was altered at line 7 which can't happen becuase it is constant. 
 
 13. A. student.name
-    B. student['Grad Year']
+    B. student['Grad Year'] \
     C. student.greeting()
     D. student['Favorite Teacher'].name
     E. student.courseload[0]

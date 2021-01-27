@@ -17,26 +17,28 @@
     B. student['Grad Year'] \
     C. student.greeting() \
     D. student['Favorite Teacher'].name \
-    E. student.courseload[0] \
+    E. student.courseload[0] 
     
-14. A. 32
-    B. 1
-    C. 3
-    D. 3null
-    E. 4
-    F. 0
-    G. 3undefined
-    H. NaN
+14. A. 32 \
+    B. 1 \
+    C. 3 \
+    D. 3null \
+    E. 4 \
+    F. 0 \ 
+    G. 3undefined \
+    H. NaN \
         
-15. A. true
-    B. false
-    C. true
-    D. false
-    E. false
-    F. true
+15. A. true \
+    B. false \
+    C. true \
+    D. false \
+    E. false \
+    F. true 
 
 16. == checks equality with type conversion, === checks equality without type conversion.
+
 17. How are you? is printed because 2 == true is a false statement so it will go to the else if (2) which is true. 
+
 18. 
     
     
